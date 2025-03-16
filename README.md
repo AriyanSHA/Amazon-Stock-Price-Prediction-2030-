@@ -8,6 +8,7 @@ The goal of this project is to predict Amazon's stock price for 2030 using histo
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib & Seaborn**: For data visualization.
 - **Scikit-learn**: For building and evaluating machine learning models (Linear Regression, Random Forest, and SVM).
+- **TensorFlow**: Deep learning (LSTM for time-series forecasting)
 - **Jupyter Notebook** (optional): For interactive development and analysis.
 
 ## Files
@@ -19,7 +20,7 @@ The goal of this project is to predict Amazon's stock price for 2030 using histo
 ## Steps
 1. **Data Preprocessing**: Load, clean, and process the stock data. 
 2. **Feature Engineering**: Create lag features and rolling averages.
-3. **Model Training**: Train three models (Linear Regression, Random Forest, and Support Vector Machines) and evaluate them.
+3. **Model Training**: Train four models (Linear Regression, Random Forest, and Support Vector Machines, LSTM) and evaluate them.
 4. **Prediction**: Use the trained model to predict Amazon's stock price for 2030.
 5. **Evaluation**: Display performance metrics like MAE, MSE, and RMSE for each model.
 
