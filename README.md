@@ -3,6 +3,13 @@
 ## Goal
 The goal of this project is to predict Amazon's stock price for 2030 using historical stock data and machine learning models.
 
+## Technologies Used
+- **Python**: Programming language used for data processing, machine learning, and model evaluation.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib & Seaborn**: For data visualization.
+- **Scikit-learn**: For building and evaluating machine learning models (Linear Regression, Random Forest, and SVM).
+- **Jupyter Notebook** (optional): For interactive development and analysis.
+
 ## Files
 - `AMZN_stock_data.csv`: Historical stock data for Amazon.
 - `stock_closing_prices.png`: Plot of Amazon stock's closing prices over time.
